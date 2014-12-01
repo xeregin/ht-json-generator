@@ -1,0 +1,1 @@
+The purpose of this script is to generate json files containing the login information for both root and rack users. The requirements for this script are hammertime and a text file with the device IDs in the first column.
